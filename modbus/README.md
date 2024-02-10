@@ -20,7 +20,7 @@ modbus.functions.write_multiple_coils(1, 0, 100, [True]*100)
 Look at all the functions python usage [here](https://github.com/joseph-gerald/py-tcp-modbus/blob/main/modbus/api/function_wrapper.py)
 
 ## CSV Runner *(runner.py)*
-Run various commands simultaneously
+Run and schedule various commands simultaneously
 
 ### Example
 ```cs
