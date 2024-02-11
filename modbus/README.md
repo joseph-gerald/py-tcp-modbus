@@ -194,7 +194,7 @@ $ python main.py -a 1 -fc 16 -start 0 -size 10 -values 100,200,400,1000,50,125,0
 | | |
 | | |
 | -n | Poll Size | Polling size (-1 is infinite) |
-| -i, -interval | Poll Interval | | Polling interval (in milliseconds) |
+| -i, -interval | Poll Interval | Polling interval (in milliseconds) |
 | | |
 | | |
 | -st, -start | Start | The Data Address of the initial index to read |
