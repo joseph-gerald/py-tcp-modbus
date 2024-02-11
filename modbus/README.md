@@ -1,5 +1,12 @@
 # Py Modbus
-Python TCP client/CLI for the Modbus protocol
+
+
+|Python TCP client/CLI for [Modbus TCP](https://www.simplymodbus.ca/TCP.htm)|
+|-|
+|![adu_pdu](https://github.com/joseph-gerald/py-tcp-modbus/assets/73967013/8453c242-effa-4b31-a63d-2c8ad6bade46)|
+|![tcpip](https://github.com/joseph-gerald/py-tcp-modbus/assets/73967013/104529ac-7b15-4a99-9dc3-6f5dcea37801)|
+
+
 
 
 ## Example Usage of Modbus API
